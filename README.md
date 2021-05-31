@@ -1,7 +1,6 @@
 # Balloon-Shooter-Game-Python
 
-![image](https://user-images.githubusercontent.com/22562694/120131133-5bfe5c00-c1e5-11eb-837d-ffaea032b65f.png)
-
+![image](https://user-images.githubusercontent.com/22562694/120131265-b13a6d80-c1e5-11eb-8033-658e421ef970.png)
 
 Balloon shooting is a simple archery game or Balloon smasher game. Balloon bursting game has simple rules but require great skill of shooting. Balloon popping or balloon shooting is best game to play in your leisure time. This game is similar to classic Bubble breaker or bubble pop game. You will get limited arrows to shoot the balloons and you have to utilize it in best possible way to score high by bursting the balloons. The smaller the balloon you shoot, more the score you get. The objective of this balloon shooting game is to pop as many balloons as possible using as few arrows as possible. You can shoot multiple balloons with one arrow as well, make best use of your arrows to shoot multiple balloons coming in line. In this game a lot of options are available to score more with special balloons coming in the way like balloon with bomb, 3 balloons at a time, wheels and small balloon. It all depends on your shooting skill and logical thinking how you can score more.
 
