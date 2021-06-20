@@ -1,4 +1,4 @@
-# Balloon-Shooter-Game-Python
+# Balloon-Shooter-Game-Using-Python
 
 ![image](https://user-images.githubusercontent.com/22562694/120131300-c8795b00-c1e5-11eb-878a-18e5341b7629.png)
 
